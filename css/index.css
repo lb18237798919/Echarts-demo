@@ -244,7 +244,7 @@ header .showTime {
   }
 }
 /* 约束屏幕尺寸 */
-/* @media screen and (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
   html {
     font-size: 42px !important;
   }
@@ -253,4 +253,4 @@ header .showTime {
   html {
     font-size: 80px !important;
   }
-} */
+}
